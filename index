@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>KIRA EQUESTRE</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; margin-top: 100px; }
+    img { max-width: 300px; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Olá! Eu sou Kira, cavaleira de salto!</h1>
+  <p>Vamos conversar?</p>
+  <p><a href="mailto:you@yourdomain.ai">you@yourdomain.ai</a></p>
+  <img src="https://via.placeholder.com/300x200.png?text=Your+Brand+Here" alt="Placeholder Image">
+</body>
+</html>
